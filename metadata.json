@@ -1,0 +1,6 @@
+{
+  "name": "AI Bản Làng Em – Bé Khám Phá Điện Biên Kỳ Diệu",
+  "description": "Ứng dụng giáo dục tương tác và trợ lý AI sư phạm dành cho trẻ mẫu giáo 5–6 tuổi và cô giáo Lò Thị Phong, Trường Mầm non Thanh Yên, Điện Biên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
